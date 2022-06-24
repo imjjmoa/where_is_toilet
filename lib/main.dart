@@ -29,7 +29,7 @@ Future<String> getFileData(String path) async {
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  getFileData("assets/toilet.geojson").then((value) {
+  getFileData("toilet.geojson").then((value) {
     var models = json.decode(value);
     models["features"].forEach((e) {
       featureModels.add(FeatureModel.fromMap(e));
