@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "ffbc41817542f457fb3993e247784747",
-"index.html": "87572204d0eafee398f1e3b315a0a565",
-"/": "87572204d0eafee398f1e3b315a0a565",
-"main.dart.js": "804796343262768f901e45eae173c6ca",
+"index.html": "3c11c9e318266c828a4e6cd5d86bcd6f",
+"/": "3c11c9e318266c828a4e6cd5d86bcd6f",
+"main.dart.js": "10df80c81b47aa8167317798c48f3890",
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -14,7 +14,9 @@ const RESOURCES = {
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "bdc2c57e8f78e070a7f2da2fb0eb605a",
-"assets/AssetManifest.json": "3b1e8192f65f56d1262c5446dcc6a6fd",
+"assets/AssetManifest.json": "be8d9fc124319f6ba41ca0d38110c1f0",
+"assets/docs/assets/toilet.geojson": "000aea60522a4b2b220c8a0aa3778b3d",
+"assets/docs/assets/docs/assets/assets/toilet.geojson": "000aea60522a4b2b220c8a0aa3778b3d",
 "assets/docs/assets/assets/toilet.geojson": "000aea60522a4b2b220c8a0aa3778b3d",
 "assets/NOTICES": "11b06da94c841fb6d5c65b4154042139",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
